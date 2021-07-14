@@ -2,4 +2,4 @@
 
 # knowing-your-tco
 
-Slides for my talk @ [Reliable Web Summit (2021)](https://reliablewebsummit.com/) called _Knowing Your TCO (Total Cost of Ownership)
+Slides for my talk @ [Reliable Web Summit (2021)](https://reliablewebsummit.com/) called _Knowing Your TCO (Total Cost of Ownership)_.
