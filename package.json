@@ -22,12 +22,13 @@
     "start": "yarn serve"
   },
   "dependencies": {
-    "@greenwood/cli": "~0.14.0",
-    "@greenwood/plugin-graphql": "~0.14.0",
-    "@greenwood/plugin-import-css": "~0.14.0",
-    "lit-element": "^2.4.0"
+    "lit-element": "^2.5.1"
   },
   "devDependencies": {
+    "@greenwood/cli": "~0.15.0",
+    "@greenwood/plugin-graphql": "~0.15.0",
+    "@greenwood/plugin-import-css": "~0.15.0",
+    "greenwood-starter-presentation": "^0.0.2",
     "rimraf": "^3.0.2"
   }
 }
