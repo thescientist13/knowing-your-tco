@@ -1859,10 +1859,10 @@ gray-matter@^2.1.0:
     js-yaml "^3.8.1"
     toml "^2.3.2"
 
-greenwood-starter-presentation@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/greenwood-starter-presentation/-/greenwood-starter-presentation-0.0.6.tgz#a255caa70c7ef170f54802cd1da3e45708d4b16f"
-  integrity sha512-iMUWtDQgrVCd+9uu5kxF55HYJO+EhgrNvghH9KPc3VNHnDgIMWysnbfvqS0XwTyuurhQVvlnYznUTSyGkMm1sg==
+greenwood-starter-presentation@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/greenwood-starter-presentation/-/greenwood-starter-presentation-0.0.8.tgz#539205ea6b7116a483d930e306d21c1e6e14a8b8"
+  integrity sha512-hKQOOpLOn7Rm3iFivqzdzo8Gu7F80w3kcfGPK9QhvzEdwT6eAq2IdF+579l0ak+ClihDVHn/iLh9T37uaC4CAw==
   dependencies:
     lit-element "^2.4.0"
 
