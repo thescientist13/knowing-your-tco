@@ -25,10 +25,10 @@
     "lit-element": "^2.5.1"
   },
   "devDependencies": {
-    "@greenwood/cli": "~0.15.0",
-    "@greenwood/plugin-graphql": "~0.15.0",
-    "@greenwood/plugin-import-css": "~0.15.0",
-    "greenwood-starter-presentation": "^0.0.8",
+    "@greenwood/cli": "~0.15.2",
+    "@greenwood/plugin-graphql": "~0.15.2",
+    "@greenwood/plugin-import-css": "~0.15.2",
+    "greenwood-starter-presentation": "^0.1.0",
     "rimraf": "^3.0.2"
   }
 }
