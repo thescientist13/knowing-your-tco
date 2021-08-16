@@ -2,9 +2,9 @@
 
 # knowing-your-tco
 
-Slides for my talk @ [Reliable Web Summit (2021)](https://reliablewebsummit.com/) called _Knowing Your TCO (Total Cost of Ownership)_.  [Hosted on Netlify]() and built using [GreenwoodJS](https://www.greenwoodjs.io/) with the [**greenwood-startar-presentation** theme pack plugin](https://github.com/thescientist13/greenwood-starter-presentation/)
+Slides for my talk @ [Reliable Web Summit (2021)](https://reliablewebsummit.com/) titled _Knowing Your TCO (Total Cost of Ownership)_.  [Hosted on Netlify]() and built using [GreenwoodJS](https://www.greenwoodjs.io/) with the [**greenwood-startar-presentation** theme pack plugin](https://github.com/thescientist13/greenwood-starter-presentation/).
 
-> _To operate, click "Presenter mode" button and use the left and right arrows keys to navigate through the slides._
+> _To operate the deck in full screen, click the "Presenter mode" button and use the left and right arrows keys to navigate through the slides._
 
 ## Running Locally
 
@@ -12,14 +12,16 @@ If you would like to run this project locally
 1. Have [NodeJS](https://nodejs.org/) LTS installed
 1. Clone or fork this repo
 1. Install dependencies
-  ```sh
-  # npm
-  $ npm i
+    ```sh
+    # npm
+    $ npm i
 
-  # yarn
-  $ yarn install
-  ```
+    # yarn
+    $ yarn install
+    ```
 1. Start the server!
-  ```sh
-  $ npm start
-  ```
+    ```sh
+    $ npm start
+    ```
+
+You can now run the deck by opening `localhost:8080` in your browser.
