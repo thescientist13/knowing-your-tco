@@ -2,6 +2,7 @@
   "name": "knowing-your-tco",
   "version": "1.0.0",
   "description": "Slides for my talk @ Reliable Web Summit (2021).",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thescientist13/knowing-your-tco.git"
@@ -18,7 +19,7 @@
     "build": "greenwood build",
     "develop": "greenwood develop",
     "serve": "greenwood serve",
-    "start": "yarn serve"
+    "start": "npm run serve"
   },
   "dependencies": {
     "lit-element": "^2.5.1"
