@@ -4,7 +4,7 @@
 
 Slides for my talk @ [Reliable Web Summit (2021)](https://reliablewebsummit.com/) titled _Knowing Your TCO (Total Cost of Ownership)_.  [Hosted on Netlify](https://practical-goldberg-a5ae74.netlify.app/) and built using [GreenwoodJS](https://github.com/ProjectEvergreen/greenwood) with the [**greenwood-startar-presentation** theme pack plugin](https://github.com/thescientist13/greenwood-starter-presentation/).
 
-> _To operate the deck in full screen, click the "Presenter mode" button and use the left and right arrows keys to navigate through the slides._
+> _To operate the deck in full screen, click the "Presenter mode" button and use the left and right arrows keys to navigate through the slides.  Hit `ESC` to exit presenter mode._
 
 ## Running Locally
 
