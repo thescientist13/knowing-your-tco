@@ -2,11 +2,11 @@
 
 p {
   margin: 0 auto;
-  font-size: 1rem;
   padding-left: 7%;
 }
 
 img {
   width: 100%!important;
+  max-height: 80%;
   filter: drop-shadow(0 0 0.75rem var(--color-accent));
 }
