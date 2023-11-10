@@ -13,7 +13,6 @@ If you would like to run this project locally
 1. Clone or fork this repo
 1. Install dependencies
     ```sh
-    # npm
     $ npm ci
     ```
 1. Start the server!
