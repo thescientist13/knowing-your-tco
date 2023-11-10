@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Slides for my talk @ Reliable Web Summit (2021).",
   "private": true,
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thescientist13/knowing-your-tco.git"
@@ -17,17 +18,13 @@
   "scripts": {
     "clean": "rimraf public .greenwood/",
     "build": "greenwood build",
-    "develop": "greenwood develop",
-    "serve": "greenwood serve",
+    "dev": "greenwood develop",
+    "serve": "npm run clean && npm run build && greenwood serve",
     "start": "npm run serve"
   },
-  "dependencies": {
-    "lit-element": "^2.5.1"
-  },
   "devDependencies": {
-    "@greenwood/cli": "~0.15.2",
-    "@greenwood/plugin-import-css": "~0.15.2",
-    "greenwood-starter-presentation": "~0.4.1",
+    "@greenwood/cli": "~0.29.0",
+    "greenwood-starter-presentation": "~0.8.0",
     "rimraf": "^3.0.2"
   }
 }

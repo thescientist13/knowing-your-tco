@@ -1,11 +1,8 @@
-const pluginImportCss = require('@greenwood/plugin-import-css');
-const pluginThemePresentation = require('greenwood-starter-presentation');
+import { greenwoodThemeStarterPresentation } from 'greenwood-starter-presentation';
 
-module.exports = {
+export default {
   title: 'Knowing Your TCO',
-  
   plugins: [
-    ...pluginImportCss(),
-    ...pluginThemePresentation()
+    greenwoodThemeStarterPresentation()
   ]
 };
