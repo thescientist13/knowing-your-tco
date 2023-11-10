@@ -9,15 +9,11 @@ Slides for my talk @ [Reliable Web Summit (2021)](https://reliablewebsummit.com/
 ## Running Locally
 
 If you would like to run this project locally
-1. Have [NodeJS](https://nodejs.org/) LTS installed
+1. Have [NodeJS](https://nodejs.org/) LTS installed (or `nvm use` if you have nvm installed)
 1. Clone or fork this repo
 1. Install dependencies
     ```sh
-    # npm
-    $ npm i
-
-    # yarn
-    $ yarn install
+    $ npm ci
     ```
 1. Start the server!
     ```sh
