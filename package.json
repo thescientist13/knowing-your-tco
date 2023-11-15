@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@greenwood/cli": "~0.29.0",
-    "greenwood-starter-presentation": "~0.8.0",
+    "greenwood-starter-presentation": "~0.8.1",
     "rimraf": "^3.0.2"
   }
 }
